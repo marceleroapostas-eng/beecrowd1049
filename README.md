@@ -1,8 +1,8 @@
-\# Beecrowd 1049 - Animal
+# Beecrowd 1049 - Animal
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1049 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém três palavras, uma em cada linha, que definem o tipo de anima
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta o nome do animal correspondente às três palavras informad
 
 
 
-\## Autor
+## Autor
 
 
 
